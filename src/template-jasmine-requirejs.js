@@ -1,6 +1,6 @@
 "use strict";
 
-var template = __dirname + '/templates/jasmine-requirejs.html',
+var template = __dirname + '/template/jasmine-requirejs.html',
     requirejs  = {
       '2.0.0' : __dirname + '/../vendor/require-2.0.0.js',
       '2.0.1' : __dirname + '/../vendor/require-2.0.1.js',
